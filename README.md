@@ -86,38 +86,58 @@ npm run dev
 Then open in your browser:
 👉 http://localhost:5173/
 
-🌐 Live Demo
-  Vercel - https://tax-loss-harvesting-alpha.vercel.app/
 
+## 🌐 Live Demo
 
-  ✨ Assumptions
-Mock API data is static and simulates real-world responses
-Tax calculations are simplified for demonstration purposes
-No backend or authentication is implemented
+**Vercel:**  
+[https://tax-loss-harvesting-alpha.vercel.app/](https://tax-loss-harvesting-alpha.vercel.app/)
 
+---
 
-🚀 Future Improvements
-  🔐 Backend integration with real APIs
-  📊 Advanced analytics & filtering
-  🌙 Dark mode support
-  📈 Charts for visual insights
-  📦 Portfolio persistence per user
+## 🧠 Assumptions
 
-🙌 Acknowledgement
+- Mock API data is static and simulates real-world responses  
+- Tax calculations are simplified for demonstration purposes  
+- No backend or authentication is implemented  
+
+---
+
+## 🚀 Future Improvements
+
+- 🔐 Backend integration with real APIs  
+- 📊 Advanced analytics & filtering  
+- 🌙 Dark mode support  
+- 📈 Charts for visual insights  
+- 📦 Portfolio persistence per user  
+
+---
+
+## 🙌 Acknowledgement
 
 This project was built as part of a frontend assignment to demonstrate:
-React fundamentals
-State management
-API handling
-Real-world financial logic implementation
 
-📬 Contact
+- React fundamentals  
+- State management  
+- API handling  
+- Real-world financial logic implementation  
 
-If you have any feedback or suggestions, feel free to reach out!
-  Email - swathisahani2105@gmail.com
-  GitHub - github.com/pihu-4454/
-  LinkedIn - https://www.linkedin.com/in/swathi-sahani-476476282/
+---
 
+## 📬 Contact
 
-⭐ If you found this useful
-Give it a star ⭐ on GitHub — it helps!
+**Email:**  
+swathisahani2105@gmail.com  
+
+**GitHub:**  
+[https://github.com/pihu-4454](https://github.com/pihu-4454)  
+
+**LinkedIn:**  
+[https://www.linkedin.com/in/swathi-sahani-476476282/](https://www.linkedin.com/in/swathi-sahani-476476282/)
+
+---
+
+## ⭐ Support
+
+If you found this useful:
+
+Give it a ⭐ on GitHub — it really helps!
