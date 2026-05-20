@@ -71,7 +71,7 @@ tax-loss-harvesting/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/Tax-Loss-Harvesting.git
+git clone https://github.com/pihu-4454/Tax-Loss-Harvesting.git
 
 # Navigate into the project
 cd tax-loss-harvesting
